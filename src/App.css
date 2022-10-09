@@ -25,7 +25,7 @@ ul {
 }
 
 main {
-  height: 65vh;
+  height: 60vh;
   max-width: 500px;
 
   overflow-y: scroll;
